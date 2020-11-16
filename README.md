@@ -19,3 +19,10 @@ Federico sta modificando il file
 Aiskorim is trying to modify this file
 Sofijackson ce la sta facendo
 zale prova
+
+Team member names:
+Auddino sofia
+Gava alessia
+Montalesi federico
+Yang luisa
+Zhou alessia
