@@ -23,3 +23,5 @@ zale prova
 questa è una prova che risolve la issue di Sofijackson
 
 Alessia Bella sta modificando di nuovo il file.
+
+Aiskorim da il buongiorno a tutti! e risolve la issue con un fake link Gmeet
