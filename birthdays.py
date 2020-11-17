@@ -1,6 +1,6 @@
-...
-The goal of the module is to find the birthday of famous people.
-...
+'''
+Comment again the module goal here.
+'''
 
 birthdays = {
     'Albert Einstein': '03/14/1879',
