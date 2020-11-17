@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 z=zhou
 #I added my birthday because I'm important too
+=======
+...
+The goal of the module is to find the birthday of famous people.
+...
+
+>>>>>>> 23edc55ec1caeccdd6e44c52391d265481046583
 birthdays = {
     'Albert Einstein': '03/14/1879',
     'Benjamin Franklin': '01/17/1706',
