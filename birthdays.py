@@ -1,4 +1,6 @@
-z=zhou
+...
+The goal of the module is to find the birthday of famous people.
+...
 
 birthdays = {
     'Albert Einstein': '03/14/1879',
