@@ -20,9 +20,12 @@ Aiskorim is trying to modify this file
 Sofijackson ce la sta facendo
 zale prova
 
+<<<<<<< HEAD
 Team member's names
 Alessia Gava
 Sofia Auddino
 Luisa Yang
 Alessia Zhou
 Federico Montalesi
+=======
+questa è una prova che risolve la issue di Sofijackson
