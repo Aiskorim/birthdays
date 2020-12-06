@@ -21,6 +21,7 @@ Sofijackson ce la sta facendo
 zale prova
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Team member's names
 Alessia Gava
 Sofia Auddino
@@ -29,3 +30,10 @@ Alessia Zhou
 Federico Montalesi
 =======
 questa è una prova che risolve la issue di Sofijackson
+=======
+questa è una prova che risolve la issue di Sofijackson
+
+Alessia Bella sta modificando di nuovo il file.
+
+Aiskorim da il buongiorno a tutti! e risolve la issue con un fake link Gmeet
+>>>>>>> 07eaa779592bae93305b0280703859b7af4e1d73
