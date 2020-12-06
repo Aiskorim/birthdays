@@ -21,3 +21,5 @@ Sofijackson ce la sta facendo
 zale prova
 
 questa è una prova che risolve la issue di Sofijackson
+
+esperimento 6.12.2020
